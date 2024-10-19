@@ -1,8 +1,8 @@
 
 # run code 
-=======
+    npm start
 ### Demo
-    https://cbtruong.github.io/Popup-ReactJS/
+    https://cbtruong.github.io/ReactJS-Popup/
 ### Run code 
     npm start
 ### Deploy code
@@ -30,4 +30,5 @@
         "test": "react-scripts test",
         "eject": "react-scripts eject"
         },
+        
     Deploy: npm run deploy
