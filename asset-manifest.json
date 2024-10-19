@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Popup-ReactJS/static/css/main.b3869751.css",
-    "main.js": "/Popup-ReactJS/static/js/main.4b4d1fb3.js",
-    "index.html": "/Popup-ReactJS/index.html",
-    "main.b3869751.css.map": "/Popup-ReactJS/static/css/main.b3869751.css.map",
-    "main.4b4d1fb3.js.map": "/Popup-ReactJS/static/js/main.4b4d1fb3.js.map"
+    "main.css": "/ReactJS-Popup/static/css/main.b3869751.css",
+    "main.js": "/ReactJS-Popup/static/js/main.4b4d1fb3.js",
+    "index.html": "/ReactJS-Popup/index.html",
+    "main.b3869751.css.map": "/ReactJS-Popup/static/css/main.b3869751.css.map",
+    "main.4b4d1fb3.js.map": "/ReactJS-Popup/static/js/main.4b4d1fb3.js.map"
   },
   "entrypoints": [
     "static/css/main.b3869751.css",
